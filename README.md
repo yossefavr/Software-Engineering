@@ -1,2 +1,2 @@
-# School
+# SoftwareEngineering
  Sapir College
